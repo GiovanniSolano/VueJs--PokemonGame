@@ -1,5 +1,7 @@
 # 04-pokemon-game
 
+URL: https://vue-pokemon-2021.netlify.app/
+
 ## Project setup
 ```
 npm install
